@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Redis Basics
-[ ] Home
-[ ] Overview
-[ ] Environment
-[ ] Configuration
+[x] Home
+[x] Overview
+[x] Environment
+[x] Configuration
 [ ] Data types
 Redis Commands
 [ ] Commands
