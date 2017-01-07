@@ -20,7 +20,7 @@ Redis Basics
 [x] Overview
 [x] Environment
 [x] Configuration
-[ ] Data types
+[x] Data types
 Redis Commands
 [ ] Commands
 [ ] Keys
