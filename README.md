@@ -23,7 +23,7 @@ Redis Basics
 [x] Data types
 Redis Commands
 [x] Commands
-[ ] Keys
+[~] Keys
 [ ] Strings
 [ ] Hashes
 [ ] Lists
